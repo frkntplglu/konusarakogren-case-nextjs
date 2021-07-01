@@ -13,7 +13,7 @@ function WorkBox({image, title, link}) {
                 />
             </div>
             <div className="work-links">
-                <a href={link} title={title} rel="noopener" target="_blank" className="detail"><i className="fas fa-link"></i></a>
+                <a href={link} title={title} rel="noreferrer" target="_blank" className="detail"><i className="fas fa-link"></i></a>
             </div>
         </div>
     )
