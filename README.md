@@ -1,4 +1,4 @@
-# Konuşarak Öğren Frontend Teknik Ödevi (jQuery)
+# Konuşarak Öğren Frontend Teknik Ödevi (Nextjs)
 
 Konuşarak Öğren firması Frontend mülakatı için yapılmıştır. Projenin çalışır halini [buradan](https://konusarakogren-case-nextjs.vercel.app/) inceleyebilirsiniz.
 
