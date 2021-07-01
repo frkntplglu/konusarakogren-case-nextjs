@@ -13,7 +13,7 @@ Konuşarak Öğren firması Frontend mülakatı için yapılmıştır. Projenin 
 
 ## Dikkat Edilen Hususlar
 
-Proje hazırlanırken Google Page Speed performansına ve SEO tarafında uyumluluğa dikkat edilmiştir. Page Speed sonuçları ile ekran görüntüleri aşağıdaki gibidir. Bu noktada Next.js'in de büyük faydası olduğunu belirtmek isterim.
+Proje hazırlanırken Google Page Speed performansına ve SEO tarafında uyumluluğa dikkat edilmiştir. Page Speed sonuçları ile ekran görüntüleri aşağıdaki gibidir.
 
 ![Desktop](https://furkan.dev/konusarakogren-case/desktop-pagespeednext.jpg) 
 
