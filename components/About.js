@@ -1,11 +1,17 @@
 import React from 'react'
+import Image from 'next/image'
 
 function About() {
     return (
         <section className="page-section about" id="about">
             <div className="container">
                 <div className="about-image">
-                    <img src="assets/img/me.jpg" alt="Furkan Topaloğlu" />
+                    <Image
+                        src="/assets/img/me.jpg"
+                        alt="Furkan Topaloğlu"
+                        width={300}
+                        height={300}
+                    />
                 </div>
                 <div className="about-content">
                     <h1 className="section-title">Ben Kimim?</h1>
