@@ -4,7 +4,7 @@ function Home() {
     return (
         <section className="page-section home" id="home">
             <div className="container">
-                <h1>Hi, my name is <span>Furkan Topaloğlu</span><br/>I'm a Frontend Developer.</h1>
+                <h1>Hoşgeldiniz, <span>Furkan Topaloğlu.</span><br/>Frontend Developer.</h1>
             </div>
             
         </section>
